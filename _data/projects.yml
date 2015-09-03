@@ -21,6 +21,9 @@
   author: BSkyB
   description: Helps you to write tests which verify Omniture requests are made correctly
 
+- name: smolder
+  author: sky-shiny
+  description: SOA smoke testing
 
 - name: bskyb.github.io
   author: BSkyB
